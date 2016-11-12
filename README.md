@@ -12,7 +12,7 @@ If you answer yes to any of the above questions, this class is for you. This cla
 
 Developers of all skill levels and experience are welcome. From the basics of your first git repo, to advanced concepts that will showcase why proper version control can change your life.
  
-**Requirements:**
+**Requirements if you want to follow along:**
 
 - Bring your own laptop (or you won't be able to follow along)!
 - Ideally, install Git ( http://git-scm.com ) and Visual Studio Code ( https://code.visualstudio.com/ ) ahead of time. 
